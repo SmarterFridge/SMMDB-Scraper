@@ -1,0 +1,9 @@
+**/__pycache__
+**/*.pyc
+venv
+
+courses
+smm-course-viewer
+.idea
+*.sw*
+*.json
